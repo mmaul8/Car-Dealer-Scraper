@@ -1,0 +1,76 @@
+Dealer ID,Type,Dealer Name,Phone,Address,Province
+31,Sales,Mazda Adi Sucipto,0562-721962,"Jl. Adi Sucipto No.41-42, Bangka Belitung Laut, Kec. Sungai Raya, Kabupaten Kubu Raya Kalimantan Barat 78117",Kalimantan Barat
+31,Service,Mazda Adi Sucipto,0562-721962,"Jl. Adi Sucipto No.41-42, Bangka Belitung Laut, Kec. Sungai Raya, Kabupaten Kubu Raya Kalimantan Barat 78117",Kalimantan Barat
+31,Parts,Mazda Adi Sucipto,0562-721962,"Jl. Adi Sucipto No.41-42, Bangka Belitung Laut, Kec. Sungai Raya, Kabupaten Kubu Raya Kalimantan Barat 78117",Kalimantan Barat
+1,Sales,Mazda Adityawarman,031 5630006,"Jl. Adityawarman No. 23, RT.005/ RW.01 Surabaya Jawa Timur, Indonesia 60242",Jawa Timur
+1,Parts,Mazda Adityawarman,031 5630006,"Jl. Adityawarman No. 23, RT.005/ RW.01 Surabaya Jawa Timur, Indonesia 60242",Jawa Timur
+1,Service,Mazda Adityawarman,031 5630006,"Jl. Adityawarman No. 23, RT.005/ RW.01 Surabaya Jawa Timur, Indonesia 60242",Jawa Timur
+5,Sales,Mazda Asia Afrika,022-4213021,"Jl. Asia Afrika No. 154 Kel. Paledang Kec. Lengkong Bandung, Indonesia 40261",Jawa Barat
+5,Service,Mazda Asia Afrika,022-4213021,"Jl. Asia Afrika No. 154 Kel. Paledang Kec. Lengkong Bandung, Indonesia 40261",Jawa Barat
+5,Parts,Mazda Asia Afrika,022-4213021,"Jl. Asia Afrika No. 154 Kel. Paledang Kec. Lengkong Bandung, Indonesia 40261",Jawa Barat
+35,Sales,Mazda Balikpapan Jaya,054 - 27207488,"Jl. MT Haryono No.19, Gn. Samarinda, Kec. Balikpapan Utara Kota Balikpapan, Kalimantan Timur 76114",Kalimantan Timur
+35,Parts,Mazda Balikpapan Jaya,054 - 27207488,"Jl. MT Haryono No.19, Gn. Samarinda, Kec. Balikpapan Utara Kota Balikpapan, Kalimantan Timur 76114",Kalimantan Timur
+35,Service,Mazda Balikpapan Jaya,054 - 27207488,"Jl. MT Haryono No.19, Gn. Samarinda, Kec. Balikpapan Utara Kota Balikpapan, Kalimantan Timur 76114",Kalimantan Timur
+6,Sales,Mazda Batam,0778 429747,"Jl. Yos Sudarso No 1, Sei Baloi - Batu Ampar, Batam Kota Batam, Kepulauan Riau 29444",Kepulauan Riau
+6,Parts,Mazda Batam,0778 429747,"Jl. Yos Sudarso No 1, Sei Baloi - Batu Ampar, Batam Kota Batam, Kepulauan Riau 29444",Kepulauan Riau
+6,Service,Mazda Batam,0778 429747,"Jl. Yos Sudarso No 1, Sei Baloi - Batu Ampar, Batam Kota Batam, Kepulauan Riau 29444",Kepulauan Riau
+7,Sales,Mazda Bintaro Jaya,021-7458034,Jl. MH. Thamrin Blok K7/A2 No. 7A Kawasan Niaga Bintaro Jaya Sektor VII Pondok Aren Tangerang Selatan 15224,Banten
+7,Service,Mazda Bintaro Jaya,021-7458034,Jl. MH. Thamrin Blok K7/A2 No. 7A Kawasan Niaga Bintaro Jaya Sektor VII Pondok Aren Tangerang Selatan 15224,Banten
+7,Parts,Mazda Bintaro Jaya,021-7458034,Jl. MH. Thamrin Blok K7/A2 No. 7A Kawasan Niaga Bintaro Jaya Sektor VII Pondok Aren Tangerang Selatan 15224,Banten
+37,Sales,Mazda BSD City,021-50920288,"JL BSD Boulevard Utara, Jl. De Park Lot II No.15, BSD City Banten 15331",Banten
+37,Service,Mazda BSD City,021-50920288,"JL BSD Boulevard Utara, Jl. De Park Lot II No.15, BSD City Banten 15331",Banten
+37,Parts,Mazda BSD City,021-50920288,"JL BSD Boulevard Utara, Jl. De Park Lot II No.15, BSD City Banten 15331",Banten
+11,Sales,Mazda Cikarang,021 - 89908899,"Jl. Sriwijaya No. 32, RT.002/ 010, Lippo Cikarang Jawa Barat, Indonesia 17550",Jawa Barat
+11,Service,Mazda Cikarang,021 - 89908899,"Jl. Sriwijaya No. 32, RT.002/ 010, Lippo Cikarang Jawa Barat, Indonesia 17550",Jawa Barat
+11,Parts,Mazda Cikarang,021 - 89908899,"Jl. Sriwijaya No. 32, RT.002/ 010, Lippo Cikarang Jawa Barat, Indonesia 17550",Jawa Barat
+14,Sales,Mazda Jawa Timur,031 5481000,"Jl.Panglima Sudirman 46 - 48, Surabaya Jawa Timur, Indonesia 60271",Jawa Timur
+14,Parts,Mazda Jawa Timur,031 5481000,"Jl.Panglima Sudirman 46 - 48, Surabaya Jawa Timur, Indonesia 60271",Jawa Timur
+14,Service,Mazda Jawa Timur,031 5481000,"Jl.Panglima Sudirman 46 - 48, Surabaya Jawa Timur, Indonesia 60271",Jawa Timur
+15,Sales,Mazda Jogja,0274 4363333,"Jl. Laksda Adisucipto (Jl. Solo) km.9 No.6, Sorogenen I, Purwomartani, Kalasan, Yogyakarta, DI Yogyakarta, Indonesia 555282",DI Yogyakarta
+15,Parts,Mazda Jogja,0274 4363333,"Jl. Laksda Adisucipto (Jl. Solo) km.9 No.6, Sorogenen I, Purwomartani, Kalasan, Yogyakarta, DI Yogyakarta, Indonesia 555282",DI Yogyakarta
+15,Service,Mazda Jogja,0274 4363333,"Jl. Laksda Adisucipto (Jl. Solo) km.9 No.6, Sorogenen I, Purwomartani, Kalasan, Yogyakarta, DI Yogyakarta, Indonesia 555282",DI Yogyakarta
+33,Sales,Mazda Kuta,0361-753887,"Jl. Bypass Ngurah Rai No.110 C, Kuta Kabupaten Badung, Bali 80361",Bali
+33,Service,Mazda Kuta,0361-753887,"Jl. Bypass Ngurah Rai No.110 C, Kuta Kabupaten Badung, Bali 80361",Bali
+33,Parts,Mazda Kuta,0361-753887,"Jl. Bypass Ngurah Rai No.110 C, Kuta Kabupaten Badung, Bali 80361",Bali
+18,Sales,Mazda Makassar,0411 888910,"Jl. A. P. Pettarani Kav E1 No.5, Makassar Sulawesi Selatan, Indonesia 90222",Sulawesi Selatan
+18,Parts,Mazda Makassar,0411 888910,"Jl. A. P. Pettarani Kav E1 No.5, Makassar Sulawesi Selatan, Indonesia 90222",Sulawesi Selatan
+18,Service,Mazda Makassar,0411 888910,"Jl. A. P. Pettarani Kav E1 No.5, Makassar Sulawesi Selatan, Indonesia 90222",Sulawesi Selatan
+19,Sales,Mazda Medan,061 6614089,"Jl. H Adam Malik No.161, Medan Sumatera Utara, Indonesia 20114",Sumatera Utara
+19,Parts,Mazda Medan,061 6614089,"Jl. H Adam Malik No.161, Medan Sumatera Utara, Indonesia 20114",Sumatera Utara
+19,Service,Mazda Medan,061 6614089,"Jl. H Adam Malik No.161, Medan Sumatera Utara, Indonesia 20114",Sumatera Utara
+32,Sales,Mazda Pagar Alam,0721-5611881,"Jl. Zainal Abidin Pagar Alam No. 154 Kel. Gedong Meneng, Kec. Raja Basa Bandar Lampung. Lampung 35145",Lampung
+32,Parts,Mazda Pagar Alam,0721-5611881,"Jl. Zainal Abidin Pagar Alam No. 154 Kel. Gedong Meneng, Kec. Raja Basa Bandar Lampung. Lampung 35145",Lampung
+32,Service,Mazda Pagar Alam,0721-5611881,"Jl. Zainal Abidin Pagar Alam No. 154 Kel. Gedong Meneng, Kec. Raja Basa Bandar Lampung. Lampung 35145",Lampung
+22,Sales,Mazda Pekanbaru,0761 839118,"Jl.Riau No.26, Pekanbaru Riau, Indonesia 28292",Riau
+22,Parts,Mazda Pekanbaru,0761 839118,"Jl.Riau No.26, Pekanbaru Riau, Indonesia 28292",Riau
+22,Service,Mazda Pekanbaru,0761 839118,"Jl.Riau No.26, Pekanbaru Riau, Indonesia 28292",Riau
+23,Sales,Mazda Pluit Indah,021-29633321,Jl. Pluit Indah Nomer 23 Jakarta Utara 14450,DKI Jakarta
+23,Service,Mazda Pluit Indah,021-29633321,Jl. Pluit Indah Nomer 23 Jakarta Utara 14450,DKI Jakarta
+23,Parts,Mazda Pluit Indah,021-29633321,Jl. Pluit Indah Nomer 23 Jakarta Utara 14450,DKI Jakarta
+25,Sales,Mazda Puri,021 22580088,"Jl. Lingkar Luar Barat No. 87 Rt/Rw: 001/002. Kel. Kembangan Utara. Kec. Kembangan Jakarta Barat, DKI Jakarta, Indonesia 11610",DKI Jakarta
+25,Parts,Mazda Puri,021 22580088,"Jl. Lingkar Luar Barat No. 87 Rt/Rw: 001/002. Kel. Kembangan Utara. Kec. Kembangan Jakarta Barat, DKI Jakarta, Indonesia 11610",DKI Jakarta
+25,Service,Mazda Puri,021 22580088,"Jl. Lingkar Luar Barat No. 87 Rt/Rw: 001/002. Kel. Kembangan Utara. Kec. Kembangan Jakarta Barat, DKI Jakarta, Indonesia 11610",DKI Jakarta
+26,Sales,Mazda Raden Saleh,021-21208888,"Jl. Raden Saleh No.1, RT.8/RW.2, Kenari, Kec. Senen Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10430",DKI Jakarta
+26,Parts,Mazda Raden Saleh,021-21208888,"Jl. Raden Saleh No.1, RT.8/RW.2, Kenari, Kec. Senen Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10430",DKI Jakarta
+26,Service,Mazda Raden Saleh,021-21208888,"Jl. Raden Saleh No.1, RT.8/RW.2, Kenari, Kec. Senen Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10430",DKI Jakarta
+27,Sales,Mazda Semarang,024 3587222,"Jl. Soegiyopranoto No.43-45, Pindrikan Kidul, Semarang Tengah, Semarang Jawa Tengah, Indonesia 50246",Jawa Tengah
+27,Parts,Mazda Semarang,024 3587222,"Jl. Soegiyopranoto No.43-45, Pindrikan Kidul, Semarang Tengah, Semarang Jawa Tengah, Indonesia 50246",Jawa Tengah
+27,Service,Mazda Semarang,024 3587222,"Jl. Soegiyopranoto No.43-45, Pindrikan Kidul, Semarang Tengah, Semarang Jawa Tengah, Indonesia 50246",Jawa Tengah
+28,Sales,Mazda Simprug,021 7269000,"Jl. Sultan Iskandar Muda / Jl.Arteri Pondok Indah RT.008 RW.002 (Halte Busway Simprug) DKI Jakarta, Indonesia 12240",DKI Jakarta
+28,Parts,Mazda Simprug,021 7269000,"Jl. Sultan Iskandar Muda / Jl.Arteri Pondok Indah RT.008 RW.002 (Halte Busway Simprug) DKI Jakarta, Indonesia 12240",DKI Jakarta
+28,Service,Mazda Simprug,021 7269000,"Jl. Sultan Iskandar Muda / Jl.Arteri Pondok Indah RT.008 RW.002 (Halte Busway Simprug) DKI Jakarta, Indonesia 12240",DKI Jakarta
+21,Sales,Mazda Soekarno Hatta,(0711) 5613462,"Jl. Soekarno Hatta No. 99, Siring Agung Ilir Barat I - Palembang, Sumsel",Sumatera Selatan
+21,Service,Mazda Soekarno Hatta,(0711) 5613462,"Jl. Soekarno Hatta No. 99, Siring Agung Ilir Barat I - Palembang, Sumsel",Sumatera Selatan
+21,Parts,Mazda Soekarno Hatta,(0711) 5613462,"Jl. Soekarno Hatta No. 99, Siring Agung Ilir Barat I - Palembang, Sumsel",Sumatera Selatan
+29,Sales,Mazda Solo,0271 721727,"Jl. Ahmad Yani 292 - 294, Ngadirejo, Surakarta Jawa Tengah, Indonesia 57163",Jawa Tengah
+29,Parts,Mazda Solo,0271 721727,"Jl. Ahmad Yani 292 - 294, Ngadirejo, Surakarta Jawa Tengah, Indonesia 57163",Jawa Tengah
+29,Service,Mazda Solo,0271 721727,"Jl. Ahmad Yani 292 - 294, Ngadirejo, Surakarta Jawa Tengah, Indonesia 57163",Jawa Tengah
+34,Sales,Mazda Sultan Agung,021 - 8854325,"Jl. Sultan Agung No.267, RT.002/RW.004, Medan Satria, Kecamatan Medan Satria  Kota Bekasi, Jawa Barat 17132",Jawa Barat
+34,Parts,Mazda Sultan Agung,021 - 8854325,"Jl. Sultan Agung No.267, RT.002/RW.004, Medan Satria, Kecamatan Medan Satria  Kota Bekasi, Jawa Barat 17132",Jawa Barat
+34,Service,Mazda Sultan Agung,021 - 8854325,"Jl. Sultan Agung No.267, RT.002/RW.004, Medan Satria, Kecamatan Medan Satria  Kota Bekasi, Jawa Barat 17132",Jawa Barat
+30,Sales,Mazda Sunter,021 29615666,"Jl. Yos Sudarso Kav. 88  Jakarta Utara, DKI Jakarta, Indonesia 14330",DKI Jakarta
+30,Parts,Mazda Sunter,021 29615666,"Jl. Yos Sudarso Kav. 88  Jakarta Utara, DKI Jakarta, Indonesia 14330",DKI Jakarta
+30,Service,Mazda Sunter,021 29615666,"Jl. Yos Sudarso Kav. 88  Jakarta Utara, DKI Jakarta, Indonesia 14330",DKI Jakarta
+36,Sales,Mazda Palu,0451 - 4025175,"Jl. Soekarno Hatta No. 3 Tondo, Kec. Mantikulore,  Kota Palu. Sulawesi Tengah",Sulawesi Tengah
+36,Parts,Mazda Palu,0451 - 4025175,"Jl. Soekarno Hatta No. 3 Tondo, Kec. Mantikulore,  Kota Palu. Sulawesi Tengah",Sulawesi Tengah
+36,Service,Mazda Palu,0451 - 4025175,"Jl. Soekarno Hatta No. 3 Tondo, Kec. Mantikulore,  Kota Palu. Sulawesi Tengah",Sulawesi Tengah
