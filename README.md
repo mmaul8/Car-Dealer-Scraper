@@ -23,4 +23,7 @@ Run the program
 ```bash
   python3 toyota.py
 ```
-
+or
+```bash
+  python3 daihatsu.py
+```
